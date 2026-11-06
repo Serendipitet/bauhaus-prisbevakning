@@ -19,12 +19,12 @@ PRODUKTER = {
     "vit_marmor": {
         "namn": "Fibrotech SPC – Vit marmor",
         "url": "https://www.bauhaus.se/vaggpanel-fibrotech-spc-vit-marmor-1000x2600mm-1063413",
-        "prisgrans": Decimal("799"),
+        "prisgrans": Decimal("1000"),,
     },
     "gra_marmor": {
         "namn": "Fibrotech SPC – Grå marmor",
         "url": "https://www.bauhaus.se/vaggpanel-fibrotech-spc-gra-marmor-2600x1000mm-1063411",
-        "prisgrans": Decimal("799"),
+        "prisgrans": Decimal("1000"),
     },
 }
 
