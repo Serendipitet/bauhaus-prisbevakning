@@ -1,10 +1,10 @@
 {
   "gra_marmor": {
     "senaste_pris": "799",
-    "varning_skickad": false
+    "varning_skickad": true
   },
   "vit_marmor": {
     "senaste_pris": "799",
-    "varning_skickad": false
+    "varning_skickad": true
   }
 }
